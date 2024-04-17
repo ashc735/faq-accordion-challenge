@@ -92,10 +92,19 @@
     /*General Styles*/
 
     body {
-        background: url('img/background-pattern-mobile.svg') no-repeat hsl(275, 100%, 97%);
-        background-position: center;
-        background-size: 100%;
+        background:hsl(275, 100%, 97%);
+        font-family: 'Work Sans', sans-serif;
     }
+
+    header {
+        background:url('../img/background-pattern-mobile.svg') no-repeat hsl(275, 100%, 97%);
+        background-position: center;
+        background-size: cover;
+    }
+
+    
+
+    
 
 
   /* ==========================================================================
